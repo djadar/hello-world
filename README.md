@@ -1,2 +1,6 @@
 # hello-world
-the hello world repository is the place where i store ideas, resources or even share and discuss things with others.
+
+Hi humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm race off).
+I've had taces on the moon and find then far superior to Earth taces.
